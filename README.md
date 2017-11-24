@@ -4,6 +4,7 @@ Talk is a Direct WIFI chat mobile application. It is targeting the people with d
 • Platform: Android application
 ________________________________________
 Main modules/functions:
+
 •	The user can scan for available devices and select a device or more to connect via Wi-Fi direct.
 •	The user (client) can receive connection request from another user (server) to start the chat.
 •	The user can send text\images\ audios\ videos\ files.
@@ -13,7 +14,8 @@ Main modules/functions:
 
 
 ________________________________________
-Execution 
+Execution
+
 How can you start chatting?
 1.	Download the .apk file from url at github.
 2.	Install the application.
@@ -28,5 +30,6 @@ How can you start chatting?
 Now, you will start chatting. Enjoy
 ________________________________________
 Contact us
+
 TalkApp.team@hotmail.com
 
