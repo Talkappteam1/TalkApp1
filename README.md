@@ -1,4 +1,5 @@
-#Talk
+Talk
+________________________________________
 Talk is a Direct WIFI chat mobile application. It is targeting the people with different ages who need to communicate with each other whether it be by text, audio or video. Also, it targets people who need to connect directly to each other via Wi-Fi without an access point.
 • Platform: Android application
 ________________________________________
@@ -27,5 +28,5 @@ How can you start chatting?
 Now, you will start chatting. Enjoy
 ________________________________________
 Contact us
-TalkApp.team@gmail.com
+TalkApp.team@hotmail.com
 
